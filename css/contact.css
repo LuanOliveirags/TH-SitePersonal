@@ -2,7 +2,7 @@
 body {
   width: 100%;
   height: 120vh;
-  background-image: url("/img/REDES3.jpg");
+  background-color: #101010;
   display: flex;
   justify-content: center;
   align-items: center;
